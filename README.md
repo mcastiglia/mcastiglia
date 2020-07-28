@@ -1,3 +1,4 @@
+# About Me
 Hi, my name is Michael. I am currently a junior at Suncoast Community High School in Florida, participating in the Math, Science, and Engineering choice program. To see the courses I have taken and the certifications I have, [visit my website](https://mvcastiglia.me/portfolio). 
 
 On my time away from school, I enjoy working on my [Robotics Team](https://mvcastiglia.me/first-robotics), where I am the Lead of Scouting, as well as the [SECME](http://secme.org) club at my school, where I am the club's President.
