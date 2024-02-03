@@ -1,7 +1,7 @@
 # About Me
-Hi, my name is Michael. I am currently a senior at Suncoast Community High School in Florida, participating in the Math, Science, and Engineering choice program. To see the courses I have taken and the certifications I have, [visit my website](https://mvcastiglia.me/portfolio). 
+Hi, my name is Michael. I am currently studying Computer Engineering (VLSI Digital Circuits Track) at the University of Central Florida and am performing research on formal hardware verification in the DRACO Laboratory led by Dr. Mike Borowczak.
 
-On my time away from school, I enjoy working on my [Robotics Team](https://mvcastiglia.me/first-robotics), where I am the Lead of Scouting, as well as the [SECME](http://secme.org) club at my school, where I am the club's President.
+In my time away from school, I am the UCF IEEE Student Branch's software chair and enjoy volunteering for FIRST Robotics Competition events.
 
 ---
 <p align="center">
