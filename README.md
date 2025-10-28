@@ -1,7 +1,7 @@
 # About Me
-Hi, my name is Michael. I am currently studying Computer Engineering (VLSI Digital Circuits Track) at the University of Central Florida and am performing research on formal hardware verification in the DRACO Laboratory led by Dr. Mike Borowczak, with support from Advanced Micro Devices.
+Hi, my name is Michael. I am currently studying in the Master's of Science in Computer Engineering at the University of Central Florida and am performing research on formal hardware security and verification in the DRACO Laboratory led by Dr. Mike Borowczak, with support from Advanced Micro Devices.
 
-In my time away from school, I am the UCF IEEE Student Branch's treasurer and enjoy volunteering for FIRST Robotics Competition events.
+In my time away from school, I am the UCF IEEE-HKN Zeta Chi President, IEEE Orlando Young Professionals Chair, and enjoy volunteering for FIRST Robotics Competition and University organized events, including Hackathons and Game Jams.
 
 ---
 <p align="center">
