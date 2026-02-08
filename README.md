@@ -7,13 +7,12 @@ In my time away from school, I am the UCF IEEE-HKN Zeta Chi President, IEEE Orla
 <p align="center">
 <a href="https://mcastiglia.com"><img src="https://github.com/mcastiglia/mcastiglia/raw/master/icons/web.png" height="30" alt="My Website"></a>
 <a href="https://www.linkedin.com/in/michael-castiglia/"><img src="https://github.com/mcastiglia/mcastiglia/raw/master/icons/linkedin.png" height="30" alt="LinkedIn"></a>
-<a href="https://vcastiglia.com/contact"><img src="https://github.com/mcastiglia/mcastiglia/raw/master/icons/contact.png" height="30" alt="Contact Me"></a>
 </p>
 
----
+<!-- ---
 # Contact
 If you would like to contact me, email me at [michael@mcastiglia.com](mailto:michael@mcastiglia.com) or [send a message through my website.](https://mcastiglia.com/contact) 
-
+-->
 <!--
 **mcastiglia/mcastiglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
